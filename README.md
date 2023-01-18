@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Twitter](https://img.shields.io/twitter/follow/luka_fuji?style=social)](https://twitter.com/luka_fuji)
 
 <!--
 **luka1104/luka1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=luka1104&count_private=true" />
+</a>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=luka1104&column=3)](https://github.com/ryo-ma/github-profile-trophy)
