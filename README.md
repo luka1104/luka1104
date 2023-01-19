@@ -9,10 +9,9 @@
     <img height="20" src="https://img.shields.io/github/followers/luka1104?label=follow&logo=github&style=flat" />
   </a>
 </p>
-
 <p align="left">
-  <img alt="Top Langs" height="150px" src="github-readme-status-pi.vercel.app/api/top-langs/?username=luka1104&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-status-pi.vercel.app/api?username=luka1104&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  <img alt="top langs" height="150px" src="https://github-readme-status-pi.vercel.app/api/top-langs?username=luka1104&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-status-pi.vercel.app/api?username=luka1104&count_private=true&&show_icons=true&theme=onedark" />
 </p>
 
 [![Readme Card](https://github-readme-status-pi.vercel.app/api/pin/?username=luka1104&repo=ETHIndia-ZKJob&theme=gruvbox)](https://github.com/luka1104/ETHIndia-ZKJob)
