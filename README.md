@@ -10,7 +10,7 @@
   </a>
 </p>
 <p align="left">
-  <img alt="top langs" height="150px" src="https://github-readme-status-pi.vercel.app/api/top-langs?username=luka1104&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="top langs" height="150px" src="https://github-readme-status-pi.vercel.app/api/top-langs?username=luka1104&count_private=true&show_icons=true&theme=onedark&layout=compact" />
   <img alt="github stats" height="150px" src="https://github-readme-status-pi.vercel.app/api?username=luka1104&count_private=true&&show_icons=true&theme=onedark" />
 </p>
 
