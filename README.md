@@ -11,12 +11,12 @@
 </p>
 <p align="left">
   <img alt="top langs" height="150px" src="https://github-readme-status-pi.vercel.app/api/top-langs?username=luka1104&count_private=true&show_icons=true&theme=onedark&layout=compact" />
-  <img alt="github stats" height="150px" src="https://github-readme-status-pi.vercel.app/api?username=luka1104&count_private=true&&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-status-pi.vercel.app/api?username=luka1104&count_private=true&show_icons=true&theme=onedark" />
 </p>
 
 [![Readme Card](https://github-readme-status-pi.vercel.app/api/pin/?username=luka1104&repo=ETHIndia-ZKJob&theme=gruvbox)](https://github.com/luka1104/ETHIndia-ZKJob)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=luka1104&title=MultiLanguage,Joined,Commit,Repo,PR,Issue,Stars,Followers&theme=gruvbox)](https://github.com/luka1104/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=luka1104&column=7&theme=gruvbox)](https://github.com/luka1104/github-profile-trophy)
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=luka1104&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=luka1104&theme=dark)
