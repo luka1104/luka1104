@@ -2,7 +2,7 @@
   <a href="https://github.com/luka1104/luka1104/">
     <img src="https://komarev.com/ghpvc/?username=luka1104" alt="luka1104" />
   </a>
-  <a href="http://twitter.com/unknown_gakusei">
+  <a href="[https://twitter.com/luka_fuji](https://twitter.com/luka_fuji)">
     <img height="20" src="https://img.shields.io/twitter/follow/luka_fuji?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/luka1104">
