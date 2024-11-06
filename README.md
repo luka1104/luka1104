@@ -36,7 +36,7 @@
       <a href="https://ethglobal.com/showcase/socialsecuritysnap-b5vyt">SocialSecuritySnap</a> at ETHTokyo 2023
     </li>
     <li>
-      <a href="[https://app.akindo.io/hackathons/Drgl6r8vBIZKZn4E4](https://app.akindo.io/communities/X4vDAW72mSMnEVAl1/products/QlM1L0vGwc27O0m8)">nhouse</a> at AI+Crypto Hackathon
+      <a href="https://app.akindo.io/communities/X4vDAW72mSMnEVAl1/products/QlM1L0vGwc27O0m8">nhouse</a> at AI+Crypto Hackathon
     </li>
   </ul>
 </p>
